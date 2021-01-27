@@ -8,8 +8,12 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		int a= 10;
-		int b=20;
+		
+	}
+	
+	//HIS-200 related changes
+	public coid doProcess() {
+	//logic goes here
 	}
 
 }
